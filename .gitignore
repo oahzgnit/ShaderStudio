@@ -1,0 +1,90 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @oahzgnit
+
+8
+9
+
+    1
+
+patriciogonzalezvivo/ss2015
+
+ss2015/.gitignore
+@patriciogonzalezvivo patriciogonzalezvivo 12 days ago Basic elements
+
+1 contributor
+66 lines (52 sloc) 0.622 kB
+# Some general ignore patterns
+build/
+obj/
+*.o
+Debug*/
+Release*/
+*.mode*
+*.app/
+*.pyc
+.svn/
+
+
+#XCode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+#XCode 4
+xcuserdata
+*.xcworkspace
+
+#Code::Blocks
+*.depend
+*.layout
+
+#Visual Studio
+*.sdf
+*.opensdf
+*.suo
+ipch/
+
+#Eclipse
+.metadata
+local.properties
+.externalToolBuilders
+
+
+# OS-specific ignore patterns
+
+#Linux
+*~
+# KDE
+.directory
+
+#OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+#Windows
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+#Android
+.csettings
+/libs/openFrameworksCompiled/project/android/paths.make
+
+# Miscellaneous
+.mailmap
+
+    Status API Training Shop Blog About Pricing 
+
+    © 2015 GitHub, Inc. Terms Privacy Security Contact Help
