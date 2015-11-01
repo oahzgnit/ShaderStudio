@@ -4,3 +4,5 @@
 
 ###Run in tangram-play
 * Open "scene.yaml" file with tangram website.
+
+* http://www.oahzgnit.com/mapping/index.html
