@@ -7,3 +7,7 @@
 * Email: zhaot745@newschool.edu
 
 ********************
+##Final Project
+###Sound performance, interactive art
+
+https://vimeo.com/149699048
